@@ -1,1 +1,4 @@
-# Developer Network `devnw`
+# Data Structures
+
+An open source organization providing data structure libraries
+for public use. 
