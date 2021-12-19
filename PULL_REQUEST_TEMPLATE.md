@@ -40,4 +40,4 @@ Let us know how users can use or test this functionality.
 * [ ] I've not made extraneous commits/changes that are unrelated to my change.
 * [ ] I have read the [contributing guide][]
 
-[contributing guide]: https://github.com/devnw/.github/blob/main/CONTRIBUTING.md
+[contributing guide]: https://github.com/structsdev/.github/blob/main/CONTRIBUTING.md
