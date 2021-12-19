@@ -2,7 +2,7 @@
 
 We take security bugs ***VERY*** seriously!
 
-Please promptly report security related bugs to <security@devnw.com>. Please
+Please promptly report security related bugs to <security@structs.dev>. Please
 follow [responsible disclosure guidelines][] when publicizing any security related
 information, ensuring that maintainers are aware of the issue and are able to
 address it promptly.
