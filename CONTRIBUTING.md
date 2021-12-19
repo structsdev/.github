@@ -26,7 +26,7 @@ template.
 
 We take security bugs ***VERY*** seriously!
 
-Please promptly report security related bugs to <security@devnw.com>. Please
+Please promptly report security related bugs to <security@structs.dev>. Please
 follow [responsible disclosure guidelines][] when publicizing any security related
 information, ensuring that maintainers are aware of the issue and are able to
 address it promptly.
@@ -44,7 +44,7 @@ For feature requests, please explain what you're trying to do, and
 how the requested feature would help you do that.
 
 Security related bugs can either be reported in the issue tracker, or if they
-are more sensitive, emailed to <security@devnw.com>.
+are more sensitive, emailed to <security@structs.dev>.
 
 [responsible disclosure guidelines]: https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet.html
 
